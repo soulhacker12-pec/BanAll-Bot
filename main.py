@@ -40,7 +40,7 @@ async def start(event):
     if event.sender.id in SEXY:
         await main.send_file(
             event.chat.id,
-            file="https://te.legra.ph/file/619ac09e97217459cac3d.jpg",
+            file="https://telegra.ph/file/91da6638fc1123c671e17.jpg",
             caption=startxt.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -54,7 +54,7 @@ async def start(event):
     if event.sender.id not in SEXY:
         await main.send_file(
             event.chat.id,
-            file="https://te.legra.ph/file/619ac09e97217459cac3d.jpg",
+            file="https://telegra.ph/file/91da6638fc1123c671e17.jpg",
             caption=startxt2.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -74,7 +74,7 @@ async def start(event):
     if event.sender.id in SEXY:
         await main.send_file(
             event.chat.id,
-            file="https://te.legra.ph/file/619ac09e97217459cac3d.jpg",
+            file="https://telegra.ph/file/91da6638fc1123c671e17.jpg",
             caption=hlptxt.format(event.sender.first_name, event.sender.id),
             link_preview=False,
             buttons=buttns
