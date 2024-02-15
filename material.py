@@ -13,7 +13,7 @@ Add Me There And I will Bang Group ☺️!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [GitHub](https://github.com/{})
+❍ Code Owner » [Aqua](https://t.me/Star_Eye_Killer_Hunter)
 
 Type `/help` For Commands!
 """
@@ -21,12 +21,12 @@ Type `/help` For Commands!
 
 startxt2 = """Hello [{}](tg://user?id={}),
 
-__This Is A BanAll Bot\nOnly My Owner Can Access This Bot!\nCreated By @WonderAakash\__
+__This Is A BanAll Bot\nOnly My Owner Can Access This Bot!\nCreated By @Star_Eye_Killer_Hunter\__
 
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [GitHub](https://github.com/{})
+❍ Code Owner » [Aqua](https://t.me/Star_Eye_Killer_Hunter)
 """
 
 hlptxt = """ Hello [{}](tg://user?id={}),
@@ -39,5 +39,5 @@ __Here is the help menu__:
  /leave - To leave group.
  /restart - To restart the bot.
 
-❍ Meet My Owner At [SUPPORT](https://t.me/XavierSUPPORT) FOR ANY KIND OF ISSUES!!
+❍ Meet My Owner At [SUPPORT](https://t.me/Soul_Network) FOR ANY KIND OF ISSUES!!
 """
